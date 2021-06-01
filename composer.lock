@@ -470,16 +470,16 @@
         },
         {
             "name": "laminas/laminas-cache",
-            "version": "2.10.0",
+            "version": "2.10.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-cache.git",
-                "reference": "060b2a71d42b12122a3546594727e7d4b870abd5"
+                "reference": "a9982f24649212994a90e76ab2622fcfd080526c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-cache/zipball/060b2a71d42b12122a3546594727e7d4b870abd5",
-                "reference": "060b2a71d42b12122a3546594727e7d4b870abd5",
+                "url": "https://api.github.com/repos/laminas/laminas-cache/zipball/a9982f24649212994a90e76ab2622fcfd080526c",
+                "reference": "a9982f24649212994a90e76ab2622fcfd080526c",
                 "shasum": ""
             },
             "require": {
@@ -556,7 +556,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2020-11-08T13:01:19+00:00"
+            "time": "2021-05-03T20:03:31+00:00"
         },
         {
             "name": "laminas/laminas-cache-storage-adapter-apc",
@@ -670,16 +670,16 @@
         },
         {
             "name": "laminas/laminas-cache-storage-adapter-blackhole",
-            "version": "1.0.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-cache-storage-adapter-blackhole.git",
-                "reference": "5f2cb437160fbc01d7f216b11e4f1ff4c9b95c49"
+                "reference": "1b89329e1b84341018a47b9a5cdc50e97af3d067"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-cache-storage-adapter-blackhole/zipball/5f2cb437160fbc01d7f216b11e4f1ff4c9b95c49",
-                "reference": "5f2cb437160fbc01d7f216b11e4f1ff4c9b95c49",
+                "url": "https://api.github.com/repos/laminas/laminas-cache-storage-adapter-blackhole/zipball/1b89329e1b84341018a47b9a5cdc50e97af3d067",
+                "reference": "1b89329e1b84341018a47b9a5cdc50e97af3d067",
                 "shasum": ""
             },
             "require": {
@@ -693,7 +693,7 @@
             },
             "require-dev": {
                 "laminas/laminas-cache": "^2.10",
-                "laminas/laminas-cache-storage-adapter-test": "^1.0@dev",
+                "laminas/laminas-cache-storage-adapter-test": "1.0.2",
                 "laminas/laminas-coding-standard": "~1.0.0",
                 "squizlabs/php_codesniffer": "^2.7"
             },
@@ -718,7 +718,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2020-10-12T16:07:07+00:00"
+            "time": "2021-04-29T20:48:20+00:00"
         },
         {
             "name": "laminas/laminas-cache-storage-adapter-dba",
@@ -1785,16 +1785,16 @@
         },
         {
             "name": "laminas/laminas-servicemanager",
-            "version": "3.4.1",
+            "version": "3.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-servicemanager.git",
-                "reference": "0d4c8628a71fae9f7bd0b1b74b76382e5e9a04b1"
+                "reference": "0669e1eec8d9f61e35a5bc5012796d49f418b259"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-servicemanager/zipball/0d4c8628a71fae9f7bd0b1b74b76382e5e9a04b1",
-                "reference": "0d4c8628a71fae9f7bd0b1b74b76382e5e9a04b1",
+                "url": "https://api.github.com/repos/laminas/laminas-servicemanager/zipball/0669e1eec8d9f61e35a5bc5012796d49f418b259",
+                "reference": "0669e1eec8d9f61e35a5bc5012796d49f418b259",
                 "shasum": ""
             },
             "require": {
@@ -1859,7 +1859,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2020-05-11T14:43:22+00:00"
+            "time": "2021-01-17T16:54:43+00:00"
         },
         {
             "name": "laminas/laminas-stdlib",
@@ -2391,10 +2391,6 @@
                 "secret-key cryptography",
                 "side-channel resistant"
             ],
-            "support": {
-                "issues": "https://github.com/paragonie/sodium_compat/issues",
-                "source": "https://github.com/paragonie/sodium_compat/tree/v1.14.0"
-            },
             "time": "2020-12-03T16:26:19+00:00"
         },
         {
@@ -2517,27 +2513,22 @@
         },
         {
             "name": "psr/container",
-            "version": "1.0.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/container.git",
-                "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f"
+                "reference": "8622567409010282b7aeebe4bb841fe98b58dcaf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/container/zipball/b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
-                "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/8622567409010282b7aeebe4bb841fe98b58dcaf",
+                "reference": "8622567409010282b7aeebe4bb841fe98b58dcaf",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": ">=7.2.0"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0.x-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Psr\\Container\\": "src/"
@@ -2550,7 +2541,7 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "homepage": "http://www.php-fig.org/"
+                    "homepage": "https://www.php-fig.org/"
                 }
             ],
             "description": "Common Container Interface (PHP FIG PSR-11)",
@@ -2562,7 +2553,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14T16:28:37+00:00"
+            "time": "2021-03-05T17:36:06+00:00"
         },
         {
             "name": "psr/http-client",
@@ -5329,6 +5320,7 @@
                 }
             ],
             "description": "A security checker for your composer.lock",
+            "abandoned": "https://github.com/fabpot/local-php-security-checker",
             "time": "2019-11-01T13:20:14+00:00"
         },
         {
@@ -5998,12 +5990,12 @@
             "version": "1.9.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/assert.git",
+                "url": "https://github.com/webmozarts/assert.git",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "shasum": ""
             },
@@ -6047,12 +6039,12 @@
             "version": "4.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/glob.git",
+                "url": "https://github.com/webmozarts/glob.git",
                 "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/glob/zipball/3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
+                "url": "https://api.github.com/repos/webmozarts/glob/zipball/3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
                 "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
                 "shasum": ""
             },
